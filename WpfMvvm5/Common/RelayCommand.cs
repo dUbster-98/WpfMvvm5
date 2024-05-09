@@ -7,6 +7,8 @@ using System.Windows.Input;
 
 namespace WpfMvvm5.Common
 {
+    //처리되어야 하는 기능을 구현하되, 외부의 기능 처리 요청을 Command 개체를 통해 주고 받음으로
+    //외부와 내부의 결합을 떨어뜨리고 클래스의 재사용성을 높게 한다.
     internal class RelayCommand<T> : ICommand
     {
         private Action<T?> _execute;

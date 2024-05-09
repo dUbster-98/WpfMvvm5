@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WpfMvvm5.Models;
 
 namespace WpfMvvm5.Common
 {

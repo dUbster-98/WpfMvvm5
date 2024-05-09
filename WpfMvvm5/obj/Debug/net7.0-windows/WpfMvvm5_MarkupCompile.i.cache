@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 C:\Users\Kim.Seonghyeon\source\repos\WpfMvvm5\WpfMvvm5\App.xaml
-1-1644662438
+21092180228
 
-10120110031
+111514447196
 1981911467256
-Views\MainWindow.xaml;
+Views\MainWindow.xaml;Views\MemberInfoView.xaml;
 
-False
+True
 
